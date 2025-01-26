@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.postimg.cc/t4ynJKys/juts.png" alt="logo.png" width="165" style="border-radius:5px;"/> 
+<img align="left" src="https://i.postimg.cc/t4ynJKys/juts.png" alt="logo.png" width="165"/> 
 
 ```cs
 just@github
